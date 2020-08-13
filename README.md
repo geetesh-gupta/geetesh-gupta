@@ -16,7 +16,7 @@ Here are some ideas to get you started:\-->
 - ⚡ Fun fact: I love Assassin's Creed game series and would be happy to have a discussion
 - 📫 Reach out to me: geeteshgupta98@gmail.com
 
-<p align='center'>
+<p align='left'>
   <img src = "https://github-readme-stats.vercel.app/api?username=geetesh-gupta&show_icons=true&line_height=27&include_all_commits=true&count_private=true">
 </p>
 
