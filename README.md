@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:\-->
 
-<h1 align="center">Hi 👋, I'm Geetesh Gupta</h1>
+<h1 align="left">Hi 👋, I'm Geetesh Gupta</h1>
 
 <!--<h3 align="center">A passionate developer and casual gamer</h3>-->
 <!-- - 🌱 I’m currently learning **data structure & algorithms, web and app development**  -->
