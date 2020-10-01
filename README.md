@@ -29,7 +29,7 @@ Here are some ideas to get you started:\-->
   <br/>
 
 -->
-💻 <b>My Tech Stack:</b> <br/> 
+💻 <b>My Tech Stack:</b> <br/> <br/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  
@@ -45,13 +45,15 @@ Here are some ideas to get you started:\-->
 
 
 👋 <b>Connect with me</b> :
-  <br/>
+  <br/> <br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/geetesh-gupta/) 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ggguitarg31)  
 
+<!--
 <p align='left'>
   <img src = "https://github-readme-stats.vercel.app/api?username=geetesh-gupta&show_icons=true&line_height=27&include_all_commits=true&count_private=true">
 </p>
+-->
 <!--
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
