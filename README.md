@@ -29,6 +29,8 @@ Here are some ideas to get you started:\-->
   <br/>
 
 -->
+
+<!--
 💻 <b>My Tech Stack:</b> <br/> <br/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -44,6 +46,7 @@ Here are some ideas to get you started:\-->
 -->
 
 
+<!--
 👋 <b>Connect with me</b> :
   <br/> <br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/geetesh-gupta/) 
