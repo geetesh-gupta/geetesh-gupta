@@ -11,7 +11,8 @@ Here are some ideas to get you started:\-->
 <!-- - 👍 Looking for opportunities to join as an intern/full time candidate as a **software engineer** -->
 <!-- - ⚡ Fun fact: I love Assassin's Creed game series and would be happy to have a discussion  -->
 
-- 🔭 I’m currently working as a part-time **React Developer** at Massachusetts Institute of Technology (**MIT**)
+- 🔭 I’m currently working as **Senior Software Engineer** at Envestnet Yodlee
+- 🔭 I've previously worked as a **React Developer** at Massachusetts Institute of Technology (**MIT**)
 - 😊 Willing to contribute in **Open Source projects**
 - 💻 Open for **freelancing** opportunities
 - 🎓 Education: Final year B.Tech. student at IIT Jodhpur pursuing Computer Science & Engineering
