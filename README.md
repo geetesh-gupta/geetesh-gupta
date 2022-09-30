@@ -15,7 +15,7 @@ Here are some ideas to get you started:\-->
 - 🔭 I've previously worked as a **React Developer** at Massachusetts Institute of Technology (**MIT**)
 - 😊 Willing to contribute in **Open Source projects**
 - 💻 Open for **freelancing** opportunities
-- 🎓 Education: Final year B.Tech. student at IIT Jodhpur pursuing Computer Science & Engineering
+- 🎓 Education: B.Tech. in Computer Science & Engineering from IIT Jodhpur
 - 📫 Reach out to me: geeteshgupta98@gmail.com
 
 
