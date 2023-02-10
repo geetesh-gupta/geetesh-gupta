@@ -11,7 +11,8 @@ Here are some ideas to get you started:\-->
 <!-- - 👍 Looking for opportunities to join as an intern/full time candidate as a **software engineer** -->
 <!-- - ⚡ Fun fact: I love Assassin's Creed game series and would be happy to have a discussion  -->
 
-- 🔭 I’m currently working as **Senior Software Engineer** at Envestnet Yodlee
+- 🔭 I’m currently working as **Senior Software Engineer** at TCS for Envestnet client
+- 🔭 I've previously worked as **Senior Software Engineer** at Yodlee for Envestnet client
 - 🔭 I've previously worked as a **React Developer** at Massachusetts Institute of Technology (**MIT**)
 - 😊 Willing to contribute in **Open Source projects**
 - 💻 Open for **freelancing** opportunities
@@ -19,6 +20,10 @@ Here are some ideas to get you started:\-->
 - 📫 Reach out to me: geeteshgupta98@gmail.com
 
 
+Active projects 
+- [Mongo DB Browser](https://plugins.jetbrains.com/plugin/20002-mongo-db-browser) [![Downloads](https://img.shields.io/jetbrains/plugin/d/20002-mongo-db-browser.svg)](https://plugins.jetbrains.com/plugin/20002-mongo-db-browser)
+- [JSON Browser](https://plugins.jetbrains.com/plugin/20013-json-browser) [![Downloads](https://img.shields.io/jetbrains/plugin/d/20013-json-browser.svg)](https://plugins.jetbrains.com/plugin/20013-json-browser)
+- [Python3 CRDT](https://github.com/anshulahuja98/python3-crdt) ![Python3 CRDT](https://img.shields.io/github/stars/anshulahuja98/python3-crdt?style=social)
 <!--
 <p align='center'>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geetesh-gupta&layout=compact">
